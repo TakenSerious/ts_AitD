@@ -1,0 +1,31 @@
+{
+	"food" : {"name" : "Food", "description" : "Each ration will feed your for a meal...", "count" : "0", "stackable" : "1"},
+	"key" : {"name" : "Key", "description" : "Each key will fit one locked item nearby...", "count" : "0", "stackable" : "1"},
+	"matches" : {"name" : "Matches", "description" : "Each match will start a fire...", "count" : "0", "stackable" : "1"},
+	"shells" : {"name" : "Shotgun Shells", "description" : "Each shell will fire from a shotgun...", "count" : "0", "stackable" : "1"},
+	"water" : {"name" : "Water", "description" : "Each drink will sate your thirst for a period...", "count" : "0", "stackable" : "1"},
+	
+	"binoculars" : {"name" : "Binoculars", "description" : "Helps you spot things from vast distances"},
+	"compass" : {"name" : "Compass", "description" : "Helps keep you in the right path"},
+	"gasmask" : {"name" : "Ventilator Mask", "description" : "Helps protect your lungs from harsh breathing conditions"},
+	"lighter" : {"name" : "Lighter", "description" : "Helps you start a fire"},
+	"medkit" : {"name" : "First Aid Kit", "description" : "Helps you treat wounds and fend off ailments"},
+	"talkies" : {"name" : "Radio Communications", "description" : "Helps you monitor communications"},
+	
+	"armorvest" : {"name" : "Protective Vest", "description" : "Provides additional physical protection", "slot" : "110", "stats" : ["dr","25"]},
+	"backpack1" : {"name" : "Backpack" , "description" : "Provides additional inventory storage", "slot" : "108", "stats" : ["inv","5"]},
+	"backpack2" : {"name" : "Hiking Bag", "description" : "Provides additional inventory storage", "slot" : "108", "stats" : ["inv","10"]},
+	"boots" : {"name" : "Boots", "description" : "Leather boots", "slot" : "115"},
+	
+	"axe" : {"name" : "Axe", "description" : "A heavy, but well-balanced implement of brutal devastation", "slot" : "203", "damage" : ["25","4"]},
+	"bat" : {"name" : "Baseball Bat", "description" : "Take aim and swing for the fences", "slot" : "203", "damage" : ["10", "5"]},
+	"crowbar" : {"name" : "Crowbar", "description" : "This is my friend, who is also a crowbar...", "slot" : "203", "damage" : ["5", "10"]},
+	"hatchet" : {"name" : "Hatchet", "description" : "Cuts wood...and necks", "slot" : "201", "damage" : ["5","20"]},
+	"knife" : {"name" : "Knife", "description" : "Even a broken clock is right twice a day", "slot" : "201", "damage" : ["1","100"]},
+	"machete" : {"name" : "Machete", "description" : "The pride of the mexican mafia", "slot" : "201", "damage" : ["5","40"]},
+	"pistol" : {"name" : "Glock P80", "description" : "A wealth of 9mm ammo in the world makes this a reliable option", "slot" : "201", "damage" : ["8","25"]},
+	"rifle" : {"name" : "Scoped Bolt Action Rifle", "description" : "Take aim from a safe, comfortable distance", "slot" : "203", "damage" : ["10","20"]},
+	"rifle2" : {"name" : "M16 Assault Rifle", "description" : "For deterring violent aggressors", "slot" : "203", "damage" : ["20","10"]},
+	"shotgun" : {"name" : "870 Tactical Shotgun", "description" : "Click, click:  Boom", "slot" : "203", "damage" : ["25","8"]},
+	"shotgun2" : {"name" : "SPAS-12 Combat Shotgun", "description" : "For hunting small game", "slot" : "203", "damage" : ["40","5"]}
+}
