@@ -5,6 +5,6 @@
 		"hp" : {"icon" : "favorite", "stat" : "hp"},
 		"ep" : {"icon" : "directions_run", "stat" : "ep"},
 		"dr" : {"icon" : "health_and_safety", "stat" : "dr" },
-		"inv" : {"icon" : "backpack", "stat" : "inv", "function" : "ToggleInventory()"},
+		"inv" : {"icon" : "backpack", "stat" : "inv", "function" : "ToggleInventory()"}
 	}
 }
