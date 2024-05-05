@@ -1,9 +1,9 @@
 {
 	"count" : {"name" : "Choices Made", "value" : "0"},
 	"location" : {"name" : "Current Location", "value" : "10000"},
-	"inv" : {"name" : "Inventory", "value" : "5"},
 	"day" : {"name" : "Day", "value" : "1"},
 	"hp" : {"name" : "Health", "value" : "100"},
-	"ap" : {"name" : "Activity Points", "value" : "3"},
-	"dr" : {"name" : "Damage Reduction", "value" : "0"}
+	"ep" : {"name" : "Energy", "value" : "100"},
+	"dr" : {"name" : "Damage Reduction", "value" : "0"},
+	"inv" : {"name" : "Inventory", "value" : "5"},
 }
