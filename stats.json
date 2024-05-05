@@ -5,5 +5,5 @@
 	"hp" : {"name" : "Health", "value" : "100"},
 	"ep" : {"name" : "Energy", "value" : "100"},
 	"dr" : {"name" : "Damage Reduction", "value" : "0"},
-	"inv" : {"name" : "Inventory", "value" : "5"},
+	"inv" : {"name" : "Inventory", "value" : "5"}
 }
