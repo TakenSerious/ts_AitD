@@ -1,0 +1,6 @@
+{
+    "atv" : "vehicles/atv.png",
+		"dirtbike" : "vehicles/dirtbike.png",
+		"motorbike" : "vehicles/motorbike.png",
+		"utilitycart" : "vehicles/utilitycart.png"
+}
